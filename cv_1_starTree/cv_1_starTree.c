@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 
 int main() {
-	printf("První cvičení");
+	printf("Prvni cviceni");
 	return 0;
 }

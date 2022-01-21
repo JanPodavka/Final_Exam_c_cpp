@@ -68,18 +68,7 @@ void zobraz(int** pole, int size) {
 		}
 	}
 }
-/*int modul2(int* pole, int* pole2, int velikost) {
-	int c = 0;
-	for (int i = 0; i < velikost; i++) {
-		if (pole[i] % 2 == 0) {
-			pole2[c] = &pole[i];
-			c = c + 1;
-		}
 
-	}
-	return c;
-
-}*/
 
 
 
